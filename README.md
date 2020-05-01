@@ -1,3 +1,5 @@
-# Portfolio_HUB
-Entry door for my Data Science Portfolio, indexing and linking to all my public projects!
-I'll separate the list in different topics, as well as skills
+# DataCamp Projects
+
+![DataCamp](https://www.datacamp.com/datacamp.png)
+
+Alongside DataCamp’s courses, the platform offers a series of guided projects to test and hone your skills.This repository is to compile such projects in an orderly fashion.
